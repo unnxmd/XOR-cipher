@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOR cipher", "XOR cipher\XOR cipher.csproj", "{BC7A7662-70CC-439B-BD9D-48874A37CEE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7A7662-70CC-439B-BD9D-48874A37CEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7A7662-70CC-439B-BD9D-48874A37CEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7A7662-70CC-439B-BD9D-48874A37CEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7A7662-70CC-439B-BD9D-48874A37CEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16920C8-D262-431F-9053-27A4E4C951E7}
+	EndGlobalSection
+EndGlobal
